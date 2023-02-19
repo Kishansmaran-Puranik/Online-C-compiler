@@ -1,6 +1,7 @@
 # Online C/C++ compiler
 Hello Guys ! <br> 
-This is an online IDE that compiles C and C++ programs. I have used **Node JS** for building this app.
+This is an online IDE that compiles C and C++ programs. I have used **Node JS and Express JS** for building this app. <br>
+I have used **Compilex** for compiling the program
 
 ### screenshots
 A simple C program is given as an input to the compiler
@@ -19,4 +20,12 @@ output
 
 ![image](https://user-images.githubusercontent.com/108893676/219941508-d06a4bd9-5f21-43a6-8ebf-69c1ec1ddd5c.png)
 
+## Steps <br>
 
+**1.** Clone the repository <br>
+**2.** Open in Code editor (VS code) <br>
+**3.** Run **npm install** in command line to install the **node modules** <br>
+**4.** Run **node index.js** to start the server <br>
+**5.** go to port **localhost:9000** to access the **IDE** <br>
+
+## Thank You
